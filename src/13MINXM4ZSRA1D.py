@@ -1,10 +1,10 @@
 import amino
-from src.utils import configs
+from utils import configs
 from tabulate import tabulate
-from src.utils.main_functions import Login
-from src.utils.main_functions import ChatRaid
-from src.utils.main_functions import Communities
-from src.utils.main_functions import CommentRaid
+from utils.main_functions import Login
+from utils.main_functions import ChatRaid
+from utils.main_functions import Communities
+from utils.main_functions import CommentRaid
 
 class MainApp:
 	def start(self):
