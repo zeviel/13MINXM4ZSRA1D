@@ -24,8 +24,8 @@ LOGO = """
  #   ## ###  #  # #  #  ### ###  #   #  ##  ###  #  # # 
  #    # # #  #  # # # # # #   # #     # # # # #  #  # # 
 ### ### # # ### # # # # # #   # ### ##  # # # # ### ##
-[Author]::: deluvsushi
-[GitHub]::: https://github.com/deluvsushi 
+[Author]::: zeviel
+[GitHub]::: https://github.com/zeviel
 """
 
 CHAT_RAID = [
