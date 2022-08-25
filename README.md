@@ -6,7 +6,7 @@ Collection of spam scripts for amino
 - apt update -y
 - apt upgrade -y
 - pkg install python
-- git clone https://github.com/deluvsushi/13MINXM4ZSRA1D
+- git clone https://github.com/zeviel/13MINXM4ZSRA1D
 - pip install tabulate
 - pip install amino
 - cd 13MINXM4ZSRA1D/src
